@@ -1,0 +1,8 @@
+06
+- cuda odd even
+07
+- cuda anneal omp (review)
+- cuda matsum (definitely wrong, bad performance) (actually it's correct)
+- cuda rule30 (done)
+08
+- simd-matmul (done)
