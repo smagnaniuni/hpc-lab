@@ -1,0 +1,8 @@
+*-sol
+cuda-anneal
+cuda-anneal-omp
+cuda-anneal-serial
+cuda-matsum
+cuda-matsum-serial
+cuda-rule30
+cuda-rule30-serial
